@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            int a = 10;
+            int b = 20;
             Console.WriteLine("wellcome to raj...");
             Console.ReadLine();
         }
